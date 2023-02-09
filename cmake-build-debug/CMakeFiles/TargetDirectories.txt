@@ -1,0 +1,3 @@
+/Users/elizavetahan/CLionProjects/4laba/cmake-build-debug/CMakeFiles/4laba.dir
+/Users/elizavetahan/CLionProjects/4laba/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/elizavetahan/CLionProjects/4laba/cmake-build-debug/CMakeFiles/rebuild_cache.dir
